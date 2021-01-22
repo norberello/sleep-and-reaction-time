@@ -1,2 +1,6 @@
-# sleep-and-reaction-time
-Sleep and reaction time analyses
+# Sleep and reaction time analyses
+
+<figure>
+  <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
