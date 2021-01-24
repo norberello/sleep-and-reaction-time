@@ -50,3 +50,7 @@ autoplot(lm1)
 
 #good review of diagnostic
 #http://www.sthda.com/english/articles/39-regression-model-diagnostics/161-linear-regression-assumptions-and-diagnostics-in-r-essentials/
+
+sleepstudy$Days<-as.factor(sleepstudy$Days)
+ggplot(sleepstudy,aes(Days,Reaction))+geom_boxplot()+
+  theme_minimal()
