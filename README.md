@@ -2,7 +2,7 @@
 
 
 <figure>
-  <img src="red2.gif" alt="Trulli" style="width:25%">
+  <img src="red2.gif" alt="Trulli" style="width:5%">
   <figcaption>Move on when green</figcaption>
 </figure>
 
